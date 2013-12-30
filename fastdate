@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+TZ=America/Los_Angeles date
+TZ=America/New_York date
+TZ=UTC date
